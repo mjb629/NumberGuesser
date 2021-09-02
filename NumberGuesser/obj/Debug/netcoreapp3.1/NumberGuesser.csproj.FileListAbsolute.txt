@@ -1,0 +1,12 @@
+/Users/matthewbriody/Projects/NumberGuesser/bin/Debug/netcoreapp3.1/NumberGuesser.deps.json
+/Users/matthewbriody/Projects/NumberGuesser/bin/Debug/netcoreapp3.1/NumberGuesser.runtimeconfig.json
+/Users/matthewbriody/Projects/NumberGuesser/bin/Debug/netcoreapp3.1/NumberGuesser.runtimeconfig.dev.json
+/Users/matthewbriody/Projects/NumberGuesser/bin/Debug/netcoreapp3.1/NumberGuesser.dll
+/Users/matthewbriody/Projects/NumberGuesser/bin/Debug/netcoreapp3.1/NumberGuesser.pdb
+/Users/matthewbriody/Projects/NumberGuesser/obj/Debug/netcoreapp3.1/NumberGuesser.csproj.AssemblyReference.cache
+/Users/matthewbriody/Projects/NumberGuesser/obj/Debug/netcoreapp3.1/NumberGuesser.AssemblyInfoInputs.cache
+/Users/matthewbriody/Projects/NumberGuesser/obj/Debug/netcoreapp3.1/NumberGuesser.AssemblyInfo.cs
+/Users/matthewbriody/Projects/NumberGuesser/obj/Debug/netcoreapp3.1/NumberGuesser.csproj.CoreCompileInputs.cache
+/Users/matthewbriody/Projects/NumberGuesser/obj/Debug/netcoreapp3.1/NumberGuesser.dll
+/Users/matthewbriody/Projects/NumberGuesser/obj/Debug/netcoreapp3.1/NumberGuesser.pdb
+/Users/matthewbriody/Projects/NumberGuesser/obj/Debug/netcoreapp3.1/NumberGuesser.genruntimeconfig.cache
